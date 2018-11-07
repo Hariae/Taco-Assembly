@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+/*Custom styling*/
+.center-content{
+  text-align: center;
+}
+
+.pad-top-10-pc{
+  padding-top: 10%;
+}
+
+.pad-top-5-pc{
+  padding-top:5%;
+}
